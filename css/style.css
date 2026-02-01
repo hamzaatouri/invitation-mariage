@@ -287,7 +287,7 @@ h1, h2, h3 {
     padding: 40px 20px;
     background:
         linear-gradient(rgba(74, 93, 74, 0.3), rgba(74, 93, 74, 0.4)),
-        url('https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=1920&q=80') center/cover no-repeat;
+        url('../images/landing image.png') center/cover no-repeat;
     overflow: hidden;
 }
 
